@@ -1,5 +1,2 @@
-# Car Dealership Application
-
-Repository Name: car-dealership-app
-
-Project Name: Car Dealership Application
+Repository Name: xrwvm-fullstack_developer_capstone  
+Project Name: fullstack_developer_capstone  
